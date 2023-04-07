@@ -1,0 +1,19 @@
+@font-face {
+    font-family: onesize;
+    src: url(onesize.ttf);
+}
+
+body {
+    background: #120548;
+    font-family: onesize, monospace;
+    color: #d000e8;
+    margin: 0;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    overflow-x: hidden;
+    overflow-y: hidden;
+}
+
+div {
+    margin-bottom: 0.5em;
+}

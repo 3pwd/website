@@ -7,7 +7,7 @@
 
 .nickname {
     color: #908dff;
-    font-size: 3em;
+    font-size: 3.5em;
     margin-top: 0.5em;
     margin-bottom: 0.5em;
 }
@@ -15,27 +15,23 @@
 .quote {
     flex-flow: column nowrap;
     margin-top: 0.9em;
-    font-size: 0.8em;
+    font-size: 1em;
     align-items: center;
 }
 
 .roles {
     flex-flow: row nowrap;
-    font-size: 0.8em;
-}
-
-.roles span {
     font-size: 1.2em;
 }
 
 .social {
     flex-flow: row nowrap;
     column-gap: 0.8em;
+    font-size: 1.1em;
 }
 
 .social > * {
     color: #d000e8;
-    font-size: 0.9em;
     cursor: pointer;
 }
 
@@ -50,8 +46,7 @@
 
 .help {
     flex-flow: row nowrap;
-    font-size: 0.8em;
-    margin-top: 1em;
+    font-size: 1em;
 }
 
 .blog {

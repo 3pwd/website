@@ -9,17 +9,17 @@ const Header = () => (
       <span>'We are not what we know but what we are ready to learn.'</span>
       <span>(Mary Catherine Bateson)</span>
     </div>
-    <div className='nickname'>3PWD</div>
+    <div className='nickname'>SRIPWOUD</div>
     {/*<Logo />*/}
     <div className='roles'>
       <span>Web3 Engineer</span>
     </div>
     <div className='social'>
-      <a href='https://github.com/3pwd' target='_blank' rel='noreferrer'>
+      <a href='https://github.com/sripwoud' target='_blank' rel='noreferrer'>
         <FaGithub />
       </a>
       <a
-        href='https://listed.to/@3pwd'
+        href='https://listed.to/@sripwoud'
         className='blog'
         target='_blank'
         rel='noreferrer'

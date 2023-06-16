@@ -71,8 +71,8 @@ French, English, German, (Spanish)
     canModify: false,
   },
   '/contact': {
-    content: `email: me@3pwd.xyz
-discord, telegram: @3pwd`,
+    content: `email: me@sripwoud.xyz
+discord, telegram, twitter: @sripwoud`,
     canModify: false,
   },
 }

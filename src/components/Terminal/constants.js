@@ -2,12 +2,11 @@ export const FILE_SYSTEM = {
   '/about': {},
   '/about/skills': {},
   '/about/skills/tech': {
-    content: `Ethereum         Foundry, EthersJS, Open Zeppelin, The Graph, Zokrates
-Back End         NodeJS, ExpressJS, routing-controllers, Passport, Deno, Flask, Elasticsearch, IPFS
-Front End        React, Redux, NextJS, Semantic-UI
-Database         PosgreSQL, MongoDB, Redis
-Testing          Jest, Tape
-DevOps           Docker, Kubernetes, Github Actions, TravisCI
+    content: `Ethereum         Foundry, Wagmi, OpenZeppelin, The Graph, Snarkjs
+Back End         NodeJS, ExpressJS, Routing-controllers, Passport, Deno, Flask, Elasticsearch, IPFS
+Front End        React, Redux, NextJS, Semantic-UI, Tailwindcss
+Database         PostgreSQL, MongoDB, Redis, BullMQ
+DevOps           Docker, Kubernetes, Github Actions, Pulumi
 Version Control  Git, GitHub
 OS               Linux (Debian/Ubuntu), MacOS
 Data Science     Pandas, Scipy, Numpy, Scikit-learn, Jupyter, Seaborn, Bokeh, Knime
